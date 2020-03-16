@@ -38,6 +38,10 @@
         </view>
     </view>
 </template>
+
+<style>
+  .没有写style上面的代码和显示结果不符....
+</style>
 ```
  
 ![uniapp](https://img-cdn-qiniu.dcloud.net.cn/uniapp/doc/img/view.png)
